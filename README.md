@@ -40,9 +40,8 @@ naabu -host <target-ip>
 
 ### Example Result
 
-```
-(Add your screenshot or terminal output here)
-```
+<img width="756" height="656" alt="Screenshot 2026-07-12 102921" src="https://github.com/user-attachments/assets/afa25766-7f53-4ab8-982c-573379e7165f" />
+
 
 ---
 
@@ -56,9 +55,8 @@ naabu -host <target-ip> -p 22,80,443
 
 ### Example Result
 
-```
-(Add your screenshot or terminal output here)
-```
+<img width="723" height="367" alt="Screenshot 2026-07-12 102931" src="https://github.com/user-attachments/assets/dbbdba04-3818-4205-8e05-c3455deaddbb" />
+
 
 ---
 
@@ -72,9 +70,8 @@ naabu -host <target-ip> -p 1-1000
 
 ### Example Result
 
-```
-(Add your screenshot or terminal output here)
-```
+<img width="772" height="596" alt="Screenshot 2026-07-12 102943" src="https://github.com/user-attachments/assets/4120bc99-0795-4f74-8ec4-db7270780814" />
+
 
 ---
 
@@ -88,9 +85,8 @@ naabu -host <target-ip> -p -
 
 ### Example Result
 
-```
-(Add your screenshot or terminal output here)
-```
+<img width="776" height="652" alt="Screenshot 2026-07-12 102955" src="https://github.com/user-attachments/assets/678123d1-e8c6-4ab4-b7ce-3fcdec830806" />
+
 
 ---
 
@@ -104,9 +100,8 @@ naabu -host <target-ip> -top-ports 100
 
 ### Example Result
 
-```
-(Add your screenshot or terminal output here)
-```
+<img width="801" height="677" alt="Screenshot 2026-07-12 103005" src="https://github.com/user-attachments/assets/658ce8e7-7b79-496a-ba5a-39fa96c7bd53" />
+
 
 ---
 
@@ -120,9 +115,8 @@ naabu -host <target-ip> -json -o result.json
 
 ### Example Result
 
-```
-(Add your screenshot or JSON output here)
-```
+<img width="1261" height="657" alt="Screenshot 2026-07-12 103026" src="https://github.com/user-attachments/assets/ffd8cd9b-abf2-4fef-ae35-ee765f114946" />
+
 
 ---
 
